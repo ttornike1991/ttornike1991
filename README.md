@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ttornike1991
-- 👀 I’m interested in Python Developing and Ethical Hacking
-- 🌱 I’m currently learning Cyber Cecurity/Computer Science 
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently attending REDBERRY and DevOps BootCamps
 - 💞️ I’m looking to collaborate on starups
 [- 📫 How to reach me ...](https://www.linkedin.com/in/tornike-chilashvili-1b53b2157/)
 
